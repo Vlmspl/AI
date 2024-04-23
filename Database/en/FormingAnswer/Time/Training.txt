@@ -1,0 +1,180 @@
+Asked: "What is the time", type: "Time", Time returned: 10:21
+Asked: "What time is it", type: "Time", Time returned: 10:21
+Asked: "Tell me the current time", type: "Time", Time returned: 10:21
+Asked: "What's the time now", type: "Time", Time returned: 10:21
+Asked: "Could you please tell me what's the current time?", type: "Time", Time returned: 10:21
+Asked: "Tell me the current time please", type: "Time", Time returned: 10:21
+Asked: "Could you let me know the time, please?", type: "Time", Time returned: 10:21
+Asked: "Do you have the current time?", type: "Time", Time returned: 10:21
+Asked: "I'm wondering what time it is right now.", type: "Time", Time returned: 10:21
+Asked: "Could you provide me with the current time, please?", type: "Time", Time returned: 10:21
+Asked: "Please inform me of the current time.", type: "Time", Time returned: 10:21
+Asked: "What time of day is it?", type: "Time", Time returned: 10:21
+Asked: "Can you tell me the time right now?", type: "Time", Time returned: 10:21
+Asked: "I need to know the current time.", type: "Time", Time returned: 10:21
+Asked: "Is it possible to get the current time from you?", type: "Time", Time returned: 10:21
+Asked: "Could you check the time for me, please?", type: "Time", Time returned: 10:21
+Asked: "I'm curious about the time at the moment.", type: "Time", Time returned: 10:21
+Asked: "Tell me what time it is right now.", type: "Time", Time returned: 10:21
+Asked: What is the time, type: "Time", Time returned: 15:59
+Asked: What time is it, type: "Time", Time returned: 15:59
+Asked: Tell me the current time, type: "Time", Time returned: 15:59
+Asked: What's the time now, type: "Time", Time returned: 15:59
+Asked: Could you please tell me what's the current time?, type: "Time", Time returned: 15:59
+Asked: Tell me the current time please, type: "Time", Time returned: 15:59
+Asked: "Could you let me know the time, please?", type: "Time", Time returned: 15:59
+Asked: "Do you have the current time?", type: "Time", Time returned: 15:59
+Asked: "I'm wondering what time it is right now.", type: "Time", Time returned: 15:59
+Asked: "Could you provide me with the current time, please?", type: "Time", Time returned: 15:59
+Asked: "Please inform me of the current time.", type: "Time", Time returned: 15:59
+Asked: "What time of day is it?", type: "Time", Time returned: 15:59
+Asked: "Can you tell me the time right now?", type: "Time", Time returned: 15:59
+Asked: "I need to know the current time.", type: "Time", Time returned: 15:59
+Asked: "Is it possible to get the current time from you?", type: "Time", Time returned: 15:59
+Asked: "Could you check the time for me, please?", type: "Time", Time returned: 15:59
+Asked: "I'm curious about the time at the moment.", type: "Time", Time returned: 15:59
+Asked: "Tell me what time it is right now.", type: "Time", Time returned: 15:59
+Asked: What is the time, type: "Time", Time returned: 17:34
+Asked: What time is it, type: "Time", Time returned: 17:34
+Asked: Tell me the current time, type: "Time", Time returned: 17:34
+Asked: What's the time now, type: "Time", Time returned: 17:34
+Asked: Could you please tell me what's the current time?, type: "Time", Time returned: 17:34
+Asked: Tell me the current time please, type: "Time", Time returned: 17:34
+Asked: "Could you let me know the time, please?", type: "Time", Time returned: 17:34
+Asked: "Do you have the current time?", type: "Time", Time returned: 17:34
+Asked: "I'm wondering what time it is right now.", type: "Time", Time returned: 17:34
+Asked: "Could you provide me with the current time, please?", type: "Time", Time returned: 17:34
+Asked: "Please inform me of the current time.", type: "Time", Time returned: 17:34
+Asked: "What time of day is it?", type: "Time", Time returned: 17:34
+Asked: "Can you tell me the time right now?", type: "Time", Time returned: 17:34
+Asked: "I need to know the current time.", type: "Time", Time returned: 17:34
+Asked: "Is it possible to get the current time from you?", type: "Time", Time returned: 17:34
+Asked: "Could you check the time for me, please?", type: "Time", Time returned: 17:34
+Asked: "I'm curious about the time at the moment.", type: "Time", Time returned: 17:34
+Asked: "Tell me what time it is right now.", type: "Time", Time returned: 17:34
+Asked: What is the time, type: "Time", Time returned: 8:00
+Asked: What time is it, type: "Time", Time returned: 8:00
+Asked: Tell me the current time, type: "Time", Time returned: 8:00
+Asked: What's the time now, type: "Time", Time returned: 8:00
+Asked: Could you please tell me what's the current time?, type: "Time", Time returned: 8:00
+Asked: Tell me the current time please, type: "Time", Time returned: 8:00
+Asked: "Could you let me know the time, please?", type: "Time", Time returned: 8:00
+Asked: "Do you have the current time?", type: "Time", Time returned: 8:00
+Asked: "I'm wondering what time it is right now.", type: "Time", Time returned: 8:00
+Asked: "Could you provide me with the current time, please?", type: "Time", Time returned: 8:00
+Asked: "Please inform me of the current time.", type: "Time", Time returned: 8:00
+Asked: "What time of day is it?", type: "Time", Time returned: 8:00
+Asked: "Can you tell me the time right now?", type: "Time", Time returned: 8:00
+Asked: "I need to know the current time.", type: "Time", Time returned: 8:00
+Asked: "Is it possible to get the current time from you?", type: "Time", Time returned: 8:00
+Asked: "Could you check the time for me, please?", type: "Time", Time returned: 8:00
+Asked: "I'm curious about the time at the moment.", type: "Time", Time returned: 8:00
+Asked: "Tell me what time it is right now.", type: "Time", Time returned: 8:00
+Asked: What is the time, type: "Time", Time returned: 9:08
+Asked: What time is it, type: "Time", Time returned: 9:08
+Asked: Tell me the current time, type: "Time", Time returned: 9:08
+Asked: What's the time now, type: "Time", Time returned: 9:08
+Asked: Could you please tell me what's the current time?, type: "Time", Time returned: 9:08
+Asked: Tell me the current time please, type: "Time", Time returned: 9:08
+Asked: "Could you let me know the time, please?", type: "Time", Time returned: 9:08
+Asked: "Do you have the current time?", type: "Time", Time returned: 9:08
+Asked: "I'm wondering what time it is right now.", type: "Time", Time returned: 9:08
+Asked: "Could you provide me with the current time, please?", type: "Time", Time returned: 9:08
+Asked: "Please inform me of the current time.", type: "Time", Time returned: 9:08
+Asked: "What time of day is it?", type: "Time", Time returned: 9:08
+Asked: "Can you tell me the time right now?", type: "Time", Time returned: 9:08
+Asked: "I need to know the current time.", type: "Time", Time returned: 9:08
+Asked: "Is it possible to get the current time from you?", type: "Time", Time returned: 9:08
+Asked: "Could you check the time for me, please?", type: "Time", Time returned: 9:08
+Asked: "I'm curious about the time at the moment.", type: "Time", Time returned: 9:08
+Asked: "Tell me what time it is right now.", type: "Time", Time returned: 9:08
+Asked: What is the time, type: "Time", Time returned: 14:14
+Asked: What time is it, type: "Time", Time returned: 14:14
+Asked: Tell me the current time, type: "Time", Time returned: 14:14
+Asked: What's the time now, type: "Time", Time returned: 14:14
+Asked: Could you please tell me what's the current time?, type: "Time", Time returned: 14:14
+Asked: Tell me the current time please, type: "Time", Time returned: 14:14
+Asked: "Could you let me know the time, please?", type: "Time", Time returned: 14:14
+Asked: "Do you have the current time?", type: "Time", Time returned: 14:14
+Asked: "I'm wondering what time it is right now.", type: "Time", Time returned: 14:14
+Asked: "Could you provide me with the current time, please?", type: "Time", Time returned: 14:14
+Asked: "Please inform me of the current time.", type: "Time", Time returned: 14:14
+Asked: "What time of day is it?", type: "Time", Time returned: 14:14
+Asked: "Can you tell me the time right now?", type: "Time", Time returned: 14:14
+Asked: "I need to know the current time.", type: "Time", Time returned: 14:14
+Asked: "Is it possible to get the current time from you?", type: "Time", Time returned: 14:14
+Asked: "Could you check the time for me, please?", type: "Time", Time returned: 14:14
+Asked: "I'm curious about the time at the moment.", type: "Time", Time returned: 14:14
+Asked: "Tell me what time it is right now.", type: "Time", Time returned: 14:14
+Asked: What is the time, type: "Time", Time returned: 6:52
+Asked: What time is it, type: "Time", Time returned: 6:52
+Asked: Tell me the current time, type: "Time", Time returned: 6:52
+Asked: What's the time now, type: "Time", Time returned: 6:52
+Asked: Could you please tell me what's the current time?, type: "Time", Time returned: 6:52
+Asked: Tell me the current time please, type: "Time", Time returned: 6:52
+Asked: "Could you let me know the time, please?", type: "Time", Time returned: 6:52
+Asked: "Do you have the current time?", type: "Time", Time returned: 6:52
+Asked: "I'm wondering what time it is right now.", type: "Time", Time returned: 6:52
+Asked: "Could you provide me with the current time, please?", type: "Time", Time returned: 6:52
+Asked: "Please inform me of the current time.", type: "Time", Time returned: 6:52
+Asked: "What time of day is it?", type: "Time", Time returned: 6:52
+Asked: "Can you tell me the time right now?", type: "Time", Time returned: 6:52
+Asked: "I need to know the current time.", type: "Time", Time returned: 6:52
+Asked: "Is it possible to get the current time from you?", type: "Time", Time returned: 6:52
+Asked: "Could you check the time for me, please?", type: "Time", Time returned: 6:52
+Asked: "I'm curious about the time at the moment.", type: "Time", Time returned: 6:52
+Asked: "Tell me what time it is right now.", type: "Time", Time returned: 6:52
+Asked: What is the time, type: "Time", Time returned: 12:30
+Asked: What time is it, type: "Time", Time returned: 12:30
+Asked: Tell me the current time, type: "Time", Time returned: 12:30
+Asked: What's the time now, type: "Time", Time returned: 12:30
+Asked: Could you please tell me what's the current time?, type: "Time", Time returned: 12:30
+Asked: Tell me the current time please, type: "Time", Time returned: 12:30
+Asked: "Could you let me know the time, please?", type: "Time", Time returned: 12:30
+Asked: "Do you have the current time?", type: "Time", Time returned: 12:30
+Asked: "I'm wondering what time it is right now.", type: "Time", Time returned: 12:30
+Asked: "Could you provide me with the current time, please?", type: "Time", Time returned: 12:30
+Asked: "Please inform me of the current time.", type: "Time", Time returned: 12:30
+Asked: "What time of day is it?", type: "Time", Time returned: 12:30
+Asked: "Can you tell me the time right now?", type: "Time", Time returned: 12:30
+Asked: "I need to know the current time.", type: "Time", Time returned: 12:30
+Asked: "Is it possible to get the current time from you?", type: "Time", Time returned: 12:30
+Asked: "Could you check the time for me, please?", type: "Time", Time returned: 12:30
+Asked: "I'm curious about the time at the moment.", type: "Time", Time returned: 12:30
+Asked: "Tell me what time it is right now.", type: "Time", Time returned: 12:30
+Asked: What is the time, type: "Time", Time returned: 3:09
+Asked: What time is it, type: "Time", Time returned: 3:09
+Asked: Tell me the current time, type: "Time", Time returned: 3:09
+Asked: What's the time now, type: "Time", Time returned: 3:09
+Asked: Could you please tell me what's the current time?, type: "Time", Time returned: 3:09
+Asked: Tell me the current time please, type: "Time", Time returned: 3:09
+Asked: "Could you let me know the time, please?", type: "Time", Time returned: 3:09
+Asked: "Do you have the current time?", type: "Time", Time returned: 3:09
+Asked: "I'm wondering what time it is right now.", type: "Time", Time returned: 3:09
+Asked: "Could you provide me with the current time, please?", type: "Time", Time returned: 3:09
+Asked: "Please inform me of the current time.", type: "Time", Time returned: 3:09
+Asked: "What time of day is it?", type: "Time", Time returned: 3:09
+Asked: "Can you tell me the time right now?", type: "Time", Time returned: 3:09
+Asked: "I need to know the current time.", type: "Time", Time returned: 3:09
+Asked: "Is it possible to get the current time from you?", type: "Time", Time returned: 3:09
+Asked: "Could you check the time for me, please?", type: "Time", Time returned: 3:09
+Asked: "I'm curious about the time at the moment.", type: "Time", Time returned: 3:09
+Asked: "Tell me what time it is right now.", type: "Time", Time returned: 3:09
+Asked: What is the time, type: "Time", Time returned: 16:50
+Asked: What time is it, type: "Time", Time returned: 16:50
+Asked: Tell me the current time, type: "Time", Time returned: 16:50
+Asked: What's the time now, type: "Time", Time returned: 16:50
+Asked: Could you please tell me what's the current time?, type: "Time", Time returned: 16:50
+Asked: Tell me the current time please, type: "Time", Time returned: 16:50
+Asked: "Could you let me know the time, please?", type: "Time", Time returned: 16:50
+Asked: "Do you have the current time?", type: "Time", Time returned: 16:50
+Asked: "I'm wondering what time it is right now.", type: "Time", Time returned: 16:50
+Asked: "Could you provide me with the current time, please?", type: "Time", Time returned: 16:50
+Asked: "Please inform me of the current time.", type: "Time", Time returned: 16:50
+Asked: "What time of day is it?", type: "Time", Time returned: 16:50
+Asked: "Can you tell me the time right now?", type: "Time", Time returned: 16:50
+Asked: "I need to know the current time.", type: "Time", Time returned: 16:50
+Asked: "Is it possible to get the current time from you?", type: "Time", Time returned: 16:50
+Asked: "Could you check the time for me, please?", type: "Time", Time returned: 16:50
+Asked: "I'm curious about the time at the moment.", type: "Time", Time returned: 16:50
+Asked: "Tell me what time it is right now.", type: "Time", Time returned: 16:50

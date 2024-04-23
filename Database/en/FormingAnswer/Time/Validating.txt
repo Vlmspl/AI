@@ -1,0 +1,10 @@
+Asked: Could you please let me know the current time?, type: "Time", Time returned: 18:26
+Asked: What is the time right now?, type: "Time", Time returned: 9:52
+Asked: What's the current time?, type: "Time", Time returned: 19:56
+Asked: Please tell me the time, type: "Time", Time returned: 5:39
+Asked: Do you have the current time?, type: "Time", Time returned: 15:37
+Asked: Could you tell me what time it is?, type: "Time", Time returned: 23:04
+Asked: I'm wondering what time it is., type: "Time", Time returned: 7:45
+Asked: Could you provide me with the time?, type: "Time", Time returned: 2:08
+Asked: What time is it now?, type: "Time", Time returned: 21:54
+Asked: What's the time at the moment?, type: "Time", Time returned: 10:21
